@@ -17,3 +17,4 @@ The user should be able to:
   * Sort the table by at least one category
 
   * Filter the users by at least one property.
+  
